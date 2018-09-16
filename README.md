@@ -1,3 +1,3 @@
-# Primer on Linear Regression
+# Polynomial Regression
 
-Primer on linear regression with statsmodels and scikit-learn
+Primer on polynomial regression in Python
