@@ -1,3 +1,3 @@
-# Polynomial Regression
+# An introduction to factor selection for regressions
 
-Primer on polynomial regression in Python
+Why we need to be judicious in selecting factors when building models, and one way of doing so.
