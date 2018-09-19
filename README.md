@@ -1,3 +1,3 @@
-# An introduction to factor selection for regressions
+# An introduction to data munging   
 
-Why we need to be judicious in selecting factors when building models, and one way of doing so.
+How to generate random data; and how to munge data - scale, transform and clean.
